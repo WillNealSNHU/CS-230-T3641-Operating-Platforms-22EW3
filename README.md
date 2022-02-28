@@ -9,11 +9,11 @@ It is looking to expand Draw it or Lose it to other computing environments. The 
 The application will need the ability for a DB to render images, users from one team to input information on the image, users from another team the ability to 
 input information on the image as well. The game will need multiplatform usability such as Linux, Mac, Windows, iOS 15, and Android. Real scalability would implement 
 the ability to play on console, mobile and operating systems, creating a cross platform experience for any user.> - What did I do well here? I touched base on scalability
-and objects of aritechture that might not have been in the "Guidelines" but thought of real world application of a product. 
+and objects of  architecture that might not have been in the "Guidelines" but thought of real world application of a product. 
 
 What about the process of working through a design document did you find helpful when developing the code?
 I believe the Design Constraints and UML helped me the most. Design Constraints are not something I typically think about when working on a project. I would for a top 5 bank
-and the architechture is set up by various other teams, and I simply get a story on the Jira Board and do what needs to be done. The design of the project is typically out 
+and the architecture  is set up by various other teams, and I simply get a story on the Jira Board and do what needs to be done. The design of the project is typically out 
 of my scope. Sure I build little stuff in the very little spare time (not recently thats for sure) but the scope is so small that it's not typically an issue. The UML's help
 visually see where things are getting placed. UML's are not typically needed for the scope of the projects at work, but I know they are industry standard and in order to grow
 in my career I will need to better work on them.
